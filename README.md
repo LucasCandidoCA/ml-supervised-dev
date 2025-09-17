@@ -21,3 +21,4 @@ Repositório criado para uso do Codespaces nas aulas de IA.
 ```pip install -r requirements.txt```
 - Crie um arquivo com a extensão ".ipynb"
 - No canto superior direito do jupyter notebook, selecione o kernel (seu ambiente python)
+- Instalar extensão Jupyter
